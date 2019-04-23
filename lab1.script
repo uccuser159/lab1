@@ -1,0 +1,22 @@
+Script started on 2019-04-23 11:15:31+08:00 [TERM="xterm" TTY="/dev/pty0" COLUMNS="80" LINES="24"]
+]0;~
+[32m煜庭@DESKTOP-9T8HL2H [33m~[0m
+$ whoani; pwd[1P[1@m[C[C[C[C[C[C
+煜庭
+/home/煜庭
+]0;~
+[32m煜庭@DESKTOP-9T8HL2H [33m~[0m
+$ git coo[Knfig -l
+[?1h=[K[?1l>]0;~
+[32m煜庭@DESKTOP-9T8HL2H [33m~[0m
+$ git clone https://github.com.[K/uccuser159/lab1.git
+Cloning into 'lab1'...
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)   [Kremote: Counting objects:  66% (2/3)   [Kremote: Counting objects: 100% (3/3)   [Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;~
+[32m煜庭@DESKTOP-9T8HL2H [33m~[0m
+$ exit
+
+Script done on 2019-04-23 11:17:11+08:00 [COMMAND_EXIT_CODE="0"]
