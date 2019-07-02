@@ -23,7 +23,7 @@ int main(){
 void fun(){
 
 		if(a==1){
-		
+			return;		
 		}
 
 		else if(a%2==1){
