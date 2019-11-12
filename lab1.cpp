@@ -8,7 +8,7 @@ void fun();
 int main(){
 
 	cout << "Please insert a number:" ;
-	
+	cout << "TEST";	
 	cin >> a;
 
 	cout << a<< " " ;
